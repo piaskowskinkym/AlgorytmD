@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AlgorytmD</string>
+    <string name="addon1">Łączy się z: </string>
+    <string name="btnAdd">Dodaj połączenie</string>
+    <string name="btnSearch">Wyszukaj najkrótsze połączenie</string>
+    <string name="Result">"Tu pojawi się wynik"</string>
+    <string name="desc">"Wynik wygląda w taki sposób: OdDo(s=a),OdDo(s=b),OdDo(s=e) gdzie s = poprzedniemu wierzchołkii czyli w OdDo(s=b) s = a a znak równania oznacza połączenie "</string>
+    <string name="link">"Wybierz z pierwszego spinnera wierchołek z którego ma wychodzić połączenie a z drugiego wybierz wierzchołek z którym owe połączenie ma się łączyć po ustawieniu wszystkich połączeń kliknij guzik pod spinnerami</string>
+    <string-array name="Vertices">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+</resources>
